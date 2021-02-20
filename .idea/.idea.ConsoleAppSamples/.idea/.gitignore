@@ -1,0 +1,13 @@
+# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.ConsoleAppSamples.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+# データソースのローカルストレージがファイルを無視しました
+/../../../../../../../../:\Users\jumbo\projects\ConsoleAppSamples\.idea\.idea.ConsoleAppSamples\.idea/dataSources/
+/dataSources.local.xml
+# エディターベースの HTTP クライアントリクエスト
+/httpRequests/
